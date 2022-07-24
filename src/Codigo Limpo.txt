@@ -1,0 +1,61 @@
+regras que ajudam a manter um código limpo.
+__________________________________________________		
+Componente		Prefixo		Exemplo
+Form			frm		frmPrincipal
+Label			lbl		lblValor
+LinkLabel		lnk		lnkEmail
+Button			btn		btnSair
+TextBox			txt		txtSalario
+Menu			mnu		mnuFileOpen
+CheckBox		chk		chkConfirma
+RadioButton		rad		radCasado
+GroupBox		grp		grpEstCivil
+PictureBox		pic		picAvatar
+Panel			pnl		pnlEstCivil
+DataGrid		grd		grdQueryResult
+ListBox			lst		lstPolicyCodes
+CheckedListBox		clb		clbOptions
+ComboBox		cbo		cboEnglish
+ListView		lvw		lvwHeadings
+TreeView		tre		treOrganization
+TabControl		tbc		tbcOptions
+DateTimePicker		dtp		dtpPublished
+MonthCalendar		mcl		mclPeriod
+HScrollBar		hsb		hsbMove
+VScrollBar		vsb		vsbMove
+Timer			tmr		tmrAlarm
+Splitter		spt		sptDivision
+DomainUpDown		upd		updPages
+NumericUpDown		nud		nudPieces
+TrackBar		trb		trbIndex
+ProgressBar		prg		prgLoadFile
+RichTextBox		rtf		rtfReport
+ImageList		ils		ilsAllIcons
+HelpProvider		hlp		hlpOptions
+ToolTip			tip		tipIcons
+ContextMenu		cmn		cmnOpen
+ToolBar			tlb		tlbActions
+StatusBar		sta		staDateTime
+NotifyIcon		nti		ntiOpen
+OpenFileDialog		ofd		ofdImage
+SaveFileDialog		sfd		sfdImage
+FontDialog		ftd		ftdText
+ColorDialog		cld		cldText
+PrintDialog		ptd		ptdText
+PrintPreviewDialog	ppd		ppdText
+PrintPreviewControl	ppc		ppcText
+ErrorProvider		err		errOpen
+PrintDocument		prn		prnText
+PageSetup Dialog	psd		psdReport
+CrystalReportViewer	rpt		rptSales
+___________________________________________________________
+			Data		
+Componente		Prefixo		Exemplo
+DataSet			dts		dtsProducts
+OleDbDataAdapter	oda		odaClients
+OleDbConnection		ocn		ocnClients
+OleDbCommand		ocm		ocmConsult
+SqlDataAdapter		sda		sdaClients
+SqlConnection		scn		scnClients
+SqlCommand		scm		scmConsult
+DataView		dtv		dtvConsult
